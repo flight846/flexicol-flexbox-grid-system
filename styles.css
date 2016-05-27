@@ -1,0 +1,32 @@
+/*---- Global ----*/
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+html {
+    font-family: futura;
+    color: white;
+}
+
+
+h1 {
+    color: black;
+    margin-left: 45%;
+}
+
+footer {
+    text-align: center;
+    color: #000;
+}
+
+/*---- Added styles ----*/
+
+footer .copy {
+    color: #fff;
+    padding: 15px;
+}
